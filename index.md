@@ -1,4 +1,4 @@
-# <center> Rep2wav: Noise Robust TTS Using self-supervised pre-trained model </center>
+# <center> Rep2wav: Noise Robust TTS Using self-supervised representations </center>
 ## Abstract
 <div style="text-align: justify"> Benefiting from the development of deep learning, text-to-speech (TTS) technology using clean speech has now achieved significant performance improvements. 
 The data collected from real scenes often contain noise and generally need to be denoised by speech enhancement models.	
